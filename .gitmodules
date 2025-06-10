@@ -4,3 +4,6 @@
 [submodule "function"]
 	path = function
 	url = https://github.com/onepiece-framework/op-core-function.git
+[submodule "trait"]
+	path = trait
+	url = https://github.com/onepiece-framework/op-core-trait.git
