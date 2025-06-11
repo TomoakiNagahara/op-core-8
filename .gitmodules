@@ -7,3 +7,6 @@
 [submodule "trait"]
 	path = trait
 	url = https://github.com/onepiece-framework/op-core-trait.git
+[submodule "include"]
+	path = include
+	url = https://github.com/TomoakiNagahara/op-core-include.git
