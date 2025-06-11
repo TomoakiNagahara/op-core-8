@@ -10,3 +10,6 @@
 [submodule "include"]
 	path = include
 	url = https://github.com/TomoakiNagahara/op-core-include.git
+[submodule "class"]
+	path = class
+	url = https://github.com/TomoakiNagahara/op-core-class.git
