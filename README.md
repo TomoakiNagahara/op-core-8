@@ -36,3 +36,6 @@ To address this, we have completely overhauled op-core, streamlining it into a s
 - **Email Function**  
   The email function will be simplified to support only HTML format and will be usable independently of OP-CORE.  
   For advanced features like attachments, `op-unit-email` will be used.
+
+- **FrankenPHP**  
+  https://qiita.com/rana_kualu/items/b381b593b899515df7ab
