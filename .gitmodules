@@ -13,3 +13,6 @@
 [submodule "class"]
 	path = class
 	url = https://github.com/TomoakiNagahara/op-core-class.git
+[submodule "ci"]
+	path = ci
+	url = https://github.com/TomoakiNagahara/op-core-ci.git
