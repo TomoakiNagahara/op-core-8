@@ -16,3 +16,6 @@
 [submodule "ci"]
 	path = ci
 	url = https://github.com/TomoakiNagahara/op-core-ci.git
+[submodule "testcase"]
+	path = testcase
+	url = https://github.com/TomoakiNagahara/op-core-testcase.git
