@@ -13,7 +13,7 @@
  *
  */
 if( version_compare(PHP_VERSION, '8.0.0') < 0 ){
-	exit('<p>The onepiece-framework does not support PHP version '.PHP_VERSION.'. Please use PHP 8.0 or higher.</p>');
+	exit('<p>The ONEPIECE Framework does not support PHP version '.PHP_VERSION.'. Please use PHP 8.0 or higher.</p>');
 }
 
 /**	Include defines.
@@ -50,3 +50,10 @@ require_once(__DIR__.'/function/OP.php');
  *
  */
 require_once(__DIR__.'/function/D.php');
+
+/**	Assign null if $_SERVER['REMOTE_ADDR'] is not set.
+ *
+ */
+if( empty($_SERVER['REMOTE_ADDR']) ){
+	$_SERVER['REMOTE_ADDR'] = null;
+}
