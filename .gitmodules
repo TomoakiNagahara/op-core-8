@@ -19,3 +19,6 @@
 [submodule "testcase"]
 	path = testcase
 	url = https://github.com/TomoakiNagahara/op-core-testcase.git
+[submodule "tutorial"]
+	path = tutorial
+	url = https://github.com/TomoakiNagahara/op-core-tutorial.git
