@@ -13,7 +13,7 @@
  *
  */
 if( version_compare(PHP_VERSION, '8.0.0') < 0 ){
-	exit('<p>The ONEPIECE Framework does not support PHP version '.PHP_VERSION.'. Please use PHP 8.0 or higher.</p>');
+	exit('<p>The ONEPIECE Framework 2030 does not support PHP version '.PHP_VERSION.'. Please use PHP 8.0 or higher.</p>');
 }
 
 /**	Include defines.
