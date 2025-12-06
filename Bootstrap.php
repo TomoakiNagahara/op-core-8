@@ -4,10 +4,9 @@
  * @created    2015-12-10   op-core(5)
  * @updated    2016-06-09   op-core(7)
  * @rebirth    2025-06-11   op-core(8)
- * @version    1.0
+ * @license    Apache-2.0
  * @package    op-core
- * @author     Tomoaki Nagahara
- * @copyright  Tomoaki Nagahara All right reserved.
+ * @copyright  (C) 2015 Tomoaki Nagahara
  */
 
 /**	Checking PHP version.
