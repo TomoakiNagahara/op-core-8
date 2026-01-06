@@ -1,24 +1,24 @@
 [submodule "interface"]
 	path = interface
-	url = https://github.com/TomoakiNagahara/op-core-interface.git
+	url = https://github.com/onepiece-framework/op-core-interface.git
 [submodule "function"]
 	path = function
-	url = https://github.com/TomoakiNagahara/op-core-function.git
+	url = https://github.com/onepiece-framework/op-core-function.git
 [submodule "trait"]
 	path = trait
-	url = https://github.com/TomoakiNagahara/op-core-trait.git
+	url = https://github.com/onepiece-framework/op-core-trait.git
 [submodule "include"]
 	path = include
-	url = https://github.com/TomoakiNagahara/op-core-include.git
+	url = https://github.com/onepiece-framework/op-core-include.git
 [submodule "class"]
 	path = class
-	url = https://github.com/TomoakiNagahara/op-core-class.git
+	url = https://github.com/onepiece-framework/op-core-class.git
 [submodule "ci"]
 	path = ci
-	url = https://github.com/TomoakiNagahara/op-core-ci.git
+	url = https://github.com/onepiece-framework/op-core-ci.git
 [submodule "testcase"]
 	path = testcase
-	url = https://github.com/TomoakiNagahara/op-core-testcase.git
+	url = https://github.com/onepiece-framework/op-core-testcase.git
 [submodule "tutorial"]
 	path = tutorial
-	url = https://github.com/TomoakiNagahara/op-core-tutorial.git
+	url = https://github.com/onepiece-framework/op-core-tutorial.git
