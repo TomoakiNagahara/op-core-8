@@ -22,3 +22,6 @@
 [submodule "tutorial"]
 	path = tutorial
 	url = https://github.com/onepiece-framework/op-core-tutorial.git
+[submodule "docs"]
+	path = docs
+	url  = https://github.com/onepiece-framework/op-core-docs.git
